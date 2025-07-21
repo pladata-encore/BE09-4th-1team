@@ -15,7 +15,7 @@ PlayData 수강생
 매니저가 건의된 게시물을 관리하고
 삼담 예약 리스트를 관리한다.
 
-## **2. Skill Stack**
+## **4. Skill Stack**
 - **Back-end**
     - Java 17 - 안정성과 최신 문법 지원을 위한 언어 선택
     - Spring Boot 3.4.6 - RESTFUL API 개발을 위한 핵심 프레임워크
@@ -42,7 +42,7 @@ PlayData 수강생
 
 ---
 
-## **4. 개발 방식 및 전략**
+## **5. 개발 방식 및 전략**
 
 - **Domain - Driven Design**
     - 각 Service 는 명확한 Domain 책임을 기준으로 분리되어 독립적인 기능을 수행합니다.
