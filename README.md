@@ -247,7 +247,7 @@ https://www.figma.com/design/OtgkvyPrx8EjbmuAway58b/PLAYDATA-BE09-4th-Team1?node
 | TC-USER-030 | user-service | 학생 비밀번호 초기화 (ID 기반) | `MANAGER` | 특정 학생 ID로 비밀번호 초기화 | PathVariable ID | 성공적으로 초기화됨 | `200 OK` | 보류 |  |
 # MSA 아키텍처 
 
-<img width="3796" height="1099" alt="MSA 아키텍처" src="https://github.com/user-attachments/assets/8ac483a8-293b-47d1-8a03-49d77d225195" />
+<img width="2208" height="2390" alt="image" src="https://github.com/user-attachments/assets/28ab381a-277c-4730-9cdb-ae8f17f0f17a" />
 
 # 회고 
 - 이지용
