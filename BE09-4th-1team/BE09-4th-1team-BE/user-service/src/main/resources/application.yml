@@ -1,0 +1,11 @@
+server:
+  port: 0
+  forward-headers-strategy: framework
+
+spring:
+  profiles:
+    active: dev
+  servlet:
+    multipart:
+      max-file-size: 2MB
+      max-request-size: 2MB
